@@ -1,0 +1,142 @@
+.logo__form {
+  font-family: 'Alfa Slab One', cursive;
+  color: white;
+  font-size: 50px;
+  background-color: red;
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  position: fixed;
+
+}
+
+.button__guts {
+  margin-right: 50px;
+  font-family: 'Alfa Slab One', cursive;
+  font-size: 25px;
+  border-radius: 30px;
+  background-color: red;
+  border-color: #ff0000;
+  color: rgb(255, 255, 255);
+  box-shadow: 0 0 40px 40px #ff0000 inset, 0 0 0 0 #ff0000;
+  -webkit-transition: all 150ms ease-in-out;
+  transition: all 150ms ease-in-out;
+  width: 200px;
+  cursor: pointer;
+}
+
+.button__guts:hover {
+  box-shadow: 0 0 10px 0 #000000 inset, 0 0 10px 4px #000000;
+}
+
+.button__griffit {
+  margin-right: 50px;
+  font-family: 'Alfa Slab One', cursive;
+  font-size: 25px;
+  border-radius: 30px;
+  background-color: red;
+  border-color: #ff0000;
+  color: rgb(255, 255, 255);
+  box-shadow: 0 0 40px 40px #ff0000 inset, 0 0 0 0 #ff0000;
+  -webkit-transition: all 150ms ease-in-out;
+  transition: all 150ms ease-in-out;
+  width: 200px;
+  cursor: pointer;
+}
+
+.button__griffit:hover {
+  box-shadow: 0 0 10px 0 #000000 inset, 0 0 10px 4px #000000;
+}
+
+.button__hawk {
+  margin-right: 50px;
+  font-family: 'Alfa Slab One', cursive;
+  font-size: 25px;
+  border-radius: 30px;
+  margin-left: 30px;
+  background-color: red;
+  border-color: #ff0000;
+  color: rgb(255, 255, 255);
+  box-shadow: 0 0 40px 40px #ff0000 inset, 0 0 0 0 #ff0000;
+  -webkit-transition: all 150ms ease-in-out;
+  transition: all 150ms ease-in-out;
+  width: 200px;
+  cursor: pointer;
+}
+
+.button__hawk:hover {
+  box-shadow: 0 0 10px 0 #000000 inset, 0 0 10px 4px #000000;
+}
+
+.button__hand_of_god {
+  margin-right: 50px;
+  font-family: 'Alfa Slab One', cursive;
+  font-size: 25px;
+  border-radius: 30px;
+  background-color: red;
+  border-color: #ff0000;
+  color: rgb(255, 255, 255);
+  box-shadow: 0 0 40px 40px #ff0000 inset, 0 0 0 0 #ff0000;
+  -webkit-transition: all 150ms ease-in-out;
+  transition: all 150ms ease-in-out;
+  width: 200px;
+  cursor: pointer;
+}
+
+.button__hand_of_god:hover {
+  box-shadow: 0 0 10px 0 #000000 inset, 0 0 10px 4px #000000;
+}
+
+.button__pacany {
+  border-radius: 30px;
+  background-color: red;
+  font-family: 'Alfa Slab One', cursive;
+  border-color: #ff0000;
+  font-size: 25px;
+  color: rgb(255, 255, 255);
+  box-shadow: 0 0 40px 40px #ff0000 inset, 0 0 0 0 #ff0000;
+  -webkit-transition: all 150ms ease-in-out;
+  transition: all 150ms ease-in-out;
+  width: 200px;
+  cursor: pointer;
+}
+
+.button__pacany:hover {
+  box-shadow: 0 0 10px 0 #000000 inset, 0 0 10px 4px #000000;
+}
+
+body {
+  margin: 0;
+  background-image: url("fonn.jpg");
+  background-attachment: fixed;
+}
+
+.main__image {
+  width: 90%;
+}
+
+.main__form {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.guts__info {
+  font-family: 'Alfa Slab One', cursive;
+  display: flex;
+  justify-content: center;
+  color: white;
+  margin-top: 100px;
+  color: white;
+  font-size: 40px;
+  font-family: 'EB Garamond', serif;
+  margin-left: 100px;
+  word-break: break-all;
+}
+
+.grif__img1 {
+  margin-top: 60px;
+  margin-right: 100px;
+  margin-left: 30px;
+  width: 40%;
+}

@@ -1,0 +1,176 @@
+.logo__form{
+    font-family: 'Alfa Slab One', cursive;
+    color:white;
+    font-size: 50px;
+    background-color: red;
+    display: flex;
+    justify-content: center;
+    width: 100%;    
+    position: fixed;
+
+} 
+.button__guts{
+    margin-right: 50px;
+    font-family: 'Alfa Slab One', cursive;
+    font-size: 25px;
+    border-radius: 30px;
+    background-color: red;
+    border-color: #ff0000;
+  color: rgb(255, 255, 255);
+  box-shadow: 0 0 40px 40px #ff0000 inset, 0 0 0 0 #ff0000;
+  -webkit-transition: all 150ms ease-in-out;
+  transition: all 150ms ease-in-out;
+  width: 200px;
+  cursor: pointer;
+}
+.button__guts:hover {
+    box-shadow: 0 0 10px 0 #000000 inset, 0 0 10px 4px #000000;
+  }
+  .button__griffit{
+    margin-right: 50px;
+    font-family: 'Alfa Slab One', cursive;
+    font-size: 25px;
+    border-radius: 30px;
+    background-color: red;
+    border-color: #ff0000;
+  color: rgb(255, 255, 255);
+  box-shadow: 0 0 40px 40px #ff0000 inset, 0 0 0 0 #ff0000;
+  -webkit-transition: all 150ms ease-in-out;
+  transition: all 150ms ease-in-out;
+  width: 200px;
+  cursor: pointer;
+}
+.button__griffit:hover {
+    box-shadow: 0 0 10px 0 #000000 inset, 0 0 10px 4px #000000;
+  }
+  .button__hawk{
+    margin-right: 50px;
+    font-family: 'Alfa Slab One', cursive;
+    font-size: 25px;
+    border-radius: 30px;
+    margin-left: 30px;
+    background-color: red;
+    border-color: #ff0000;
+  color: rgb(255, 255, 255);
+  box-shadow: 0 0 40px 40px #ff0000 inset, 0 0 0 0 #ff0000;
+  -webkit-transition: all 150ms ease-in-out;
+  transition: all 150ms ease-in-out;
+  width: 200px;
+  cursor: pointer;
+}
+.button__hawk:hover {
+    box-shadow: 0 0 10px 0 #000000 inset, 0 0 10px 4px #000000;
+  }
+  .button__hand_of_god{
+    margin-right: 50px;
+    font-family: 'Alfa Slab One', cursive;
+    font-size: 25px;
+    border-radius: 30px;
+    background-color: red;
+    border-color: #ff0000;
+  color: rgb(255, 255, 255);
+  box-shadow: 0 0 40px 40px #ff0000 inset, 0 0 0 0 #ff0000;
+  -webkit-transition: all 150ms ease-in-out;
+  transition: all 150ms ease-in-out;
+  width: 200px;
+  cursor: pointer;
+}
+.button__hand_of_god:hover {
+    box-shadow: 0 0 10px 0 #000000 inset, 0 0 10px 4px #000000;
+  }
+  .button__pacany{
+    border-radius: 30px;
+    background-color: red;
+    font-family: 'Alfa Slab One', cursive;
+    border-color: #ff0000;
+    font-size: 25px;
+  color: rgb(255, 255, 255);
+  box-shadow: 0 0 40px 40px #ff0000 inset, 0 0 0 0 #ff0000;
+  -webkit-transition: all 150ms ease-in-out;
+  transition: all 150ms ease-in-out;
+  width: 200px;
+  cursor: pointer;
+}
+.button__pacany:hover {
+    box-shadow: 0 0 10px 0 #000000 inset, 0 0 10px 4px #000000;
+  }
+body{
+  background-image: url("fonn.jpg");
+  background-attachment: fixed;
+  margin: 0;
+}
+
+.main__image{
+    width: 90%;
+}
+    
+.main__form{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 70%;
+    margin: auto;
+}
+.main__text1{
+    color: white;
+    margin-top: 100px;
+    margin-right: 100px;
+    margin-left:40px;
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 50px;
+    line-height: 100px;
+    box-shadow: 20px 10px 10px red;
+}
+.avtor{
+    font-family: 'Alfa Slab One', cursive;
+    display: flex;
+    justify-content: center;
+    color: white;
+    font-size: 50px;
+    margin-top: 50px ;
+
+}
+.avtor__form{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.avtor__img{
+    margin-right: 100px;
+    margin-left: 10px;
+    width: 100%;
+}
+.avtor__text{
+    color: white;
+    font-size: 50px;
+    font-family: 'EB Garamond', serif;
+    margin-left: 100px;
+    
+}
+.avtor__form2{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 50px;
+}
+.avtor__img2{
+  margin-right: 10px;
+  margin-left: 100px;
+  width: 100%;
+}
+.avtor__text2{
+  color: white;
+  font-size: 50px;
+  font-family: 'EB Garamond', serif;
+  margin-right: 100px;
+  margin-left: 20px;
+}
+.die{
+  font-family: 'Alfa Slab One', cursive;
+  color:white;
+  font-size: 20px;
+  background-color: rgb(66, 14, 14);
+  display: flex;
+  justify-content: center;
+  width: 100%;    
+}
